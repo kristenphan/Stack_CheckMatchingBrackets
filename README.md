@@ -1,4 +1,4 @@
-# Stack Implementation: Matching Brackets
+# Stack Implementation: Check Matching Brackets
 Course URL: https://www.coursera.org/learn/data-structures/
 
 __Assignment Description:__
