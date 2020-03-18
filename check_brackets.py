@@ -15,6 +15,7 @@ class Node:
 # if there's no unmatched closing bracket, the function returns the index of the first unmatched opening bracket (priority 2)
 # note that the index being returned by this function is in 1-based index scheme
 # if all brackets match up properly, the function returns "Success"
+# this function implements stack data structure to achieve the desired output
 # e.g.1. input = "{}], output = 3 (priority 1)
 # e.g.2. input = "(){]", output = 4 (priority 1)
 # e.g.3. input = "(()[", output = 1 (priority 2)
