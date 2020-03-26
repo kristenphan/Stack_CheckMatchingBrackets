@@ -1,6 +1,9 @@
 # Stack Implementation: Check Matching Brackets
-Course URL: https://www.coursera.org/learn/data-structures/
-
+__Repository description:__
+<br/>
+This repository stores the work as part of the Algorithms and Data Structures specialization courses by UC San Diego. Course URL: https://www.coursera.org/learn/data-structures/. Code included in this repository is written by myself, Kristen Phan.
+<br/>
+<br/>
 __Assignment Description:__
 <br/>
 <br/>
